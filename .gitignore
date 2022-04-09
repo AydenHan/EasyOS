@@ -13,6 +13,9 @@
 *.txt
 *.ini
 *.lst
+*.iex
+*.uvoptx
+*.uvprojx
 Drive/
 Libraries/
 Output/
